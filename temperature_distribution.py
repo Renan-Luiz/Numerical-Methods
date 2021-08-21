@@ -1,4 +1,3 @@
-#%%
 # -*- coding: utf-8 -*-
 """
 Created on Mon May 18 18:41:29 2020
@@ -722,6 +721,4 @@ if Met==3:
         pyplot.title('Erro para T=1')
         pyplot.xlabel('Pontos da barra')
         pyplot.ylabel('Erro')
-    
-
-# %%
+   
