@@ -1,6 +1,7 @@
 # Numerical-Methods
 
-In this repository there are two programs, temperature_distribution.py and heat_equation.py.
+In this repository there are two programs, temperature_distribution.py and heat_equation.py, which were developed for the discipline Numerical Methods and Applications
+of the Polytechnic School of the University of São Paulo.
 
 In temperature_distribution.py, the temperature distribution problem in a bar can be solved by using one of three following numerical methods: 
 explicit euler, implicit euler and Crank-Nicolson method. 
@@ -26,12 +27,21 @@ The temperature distribution program has to be used in the following steps:
    "2" to use implicit euler.
    "3" to use Crank-Nicolson method.
 * Type:
-   
+   "a" to get the numerical solution.
+   "b" to get the initial conditions.
+   "c" to get the solution with a point source.
 * Type the number of nodes N and the convergence limite λ if they were needed.
 
 
 The heat_equantion.py is intended to predict the heat source by assuming that the temperature distribution is already known.
-
+This program has the following steps:
+--
+* Run the code
+* Type:
+   "a" 
+   "b" 
+   "c"
+   "d" 
 
 
 
